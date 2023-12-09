@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9f76f10-f8ce-40bf-9a6d-a96c9e88372f" name="Changes" comment="java immutable string done">
+      <change beforePath="$PROJECT_DIR$/src/main/java/xshohrukh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xshohrukh/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="java_operations" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2YeepzFKfH1vAnwYuF48tDqY5og" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "java__array",
+    "last_opened_file_path": "D:/Dasturlash/Java/java_core",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/Dasturlash/Java/java_core/src/main/java/xshohrukh/Main.java",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="xshohrukh" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xshohrukh.Main" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xshohrukh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xshohrukh.MessageFormatTest" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xshohrukh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xshohrukh.TicTacToe" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xshohrukh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xshohrukh.TimeFormat" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xshohrukh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingWithArraysClassMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xshohrukh.WorkingWithArraysClassMethods" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xshohrukh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.WorkingWithArraysClassMethods" />
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.TimeFormat" />
+        <item itemvalue="Application.MessageFormatTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f76f10-f8ce-40bf-9a6d-a96c9e88372f" name="Changes" comment="" />
+      <created>1700890660521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700890660521</updated>
+      <workItem from="1700890661569" duration="4332000" />
+      <workItem from="1701076603498" duration="5146000" />
+      <workItem from="1701091457831" duration="599000" />
+      <workItem from="1701259971449" duration="3382000" />
+      <workItem from="1701690951663" duration="747000" />
+      <workItem from="1701745126825" duration="13000" />
+      <workItem from="1702041469965" duration="25000" />
+      <workItem from="1702095043645" duration="5069000" />
+      <workItem from="1702113910694" duration="8672000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <option name="closed" value="true" />
+      <created>1700890884533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700890884533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java operations done">
+      <option name="closed" value="true" />
+      <created>1700891427258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700891427258</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java control statements done">
+      <option name="closed" value="true" />
+      <created>1700892340208</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700892340209</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java methods done">
+      <option name="closed" value="true" />
+      <created>1700892537998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700892537998</updated>
+    </task>
+    <task id="LOCAL-00005" summary="java string done">
+      <option name="closed" value="true" />
+      <created>1700892938095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700892938095</updated>
+    </task>
+    <task id="LOCAL-00006" summary="java array done">
+      <option name="closed" value="true" />
+      <created>1700894029696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700894029696</updated>
+    </task>
+    <task id="LOCAL-00007" summary="java immutable string done">
+      <option name="closed" value="true" />
+      <created>1702113963557</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702113963557</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="initial" />
+    <MESSAGE value="java operations done" />
+    <MESSAGE value="java control statements done" />
+    <MESSAGE value="java methods done" />
+    <MESSAGE value="java string done" />
+    <MESSAGE value="java array done" />
+    <MESSAGE value="java immutable string done" />
+    <option name="LAST_COMMIT_MESSAGE" value="java immutable string done" />
+  </component>
+</project>
