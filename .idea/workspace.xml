@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9f76f10-f8ce-40bf-9a6d-a96c9e88372f" name="Changes" comment="java immutable string done">
+    <list default="true" id="b9f76f10-f8ce-40bf-9a6d-a96c9e88372f" name="Changes" comment="java array done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/xshohrukh/ControlFlowStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xshohrukh/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xshohrukh/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xshohrukh/arrays/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/xshohrukh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xshohrukh/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,28 +41,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "java__array",
-    "last_opened_file_path": "D:/Dasturlash/Java/java_core",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "D:/Dasturlash/Java/java_core/src/main/java/xshohrukh/Main.java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;java__array&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dasturlash/Java/java_core&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Dasturlash/Java/java_core/src/main/java/xshohrukh/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="xshohrukh" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xshohrukh.arrays.Array" />
+      <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xshohrukh.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="xshohrukh.Main" />
       <module name="java_core" />
@@ -71,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MessageFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xshohrukh.MessageFormatTest" />
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xshohrukh.Methods" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
@@ -84,21 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xshohrukh.TicTacToe" />
-      <module name="java_core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xshohrukh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimeFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xshohrukh.TimeFormat" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xshohrukh.Practice" />
       <module name="java_core" />
       <extension name="coverage">
         <pattern>
@@ -126,10 +131,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.Methods" />
         <item itemvalue="Application.WorkingWithArraysClassMethods" />
-        <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.TimeFormat" />
-        <item itemvalue="Application.MessageFormatTest" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +154,14 @@
       <workItem from="1701745126825" duration="13000" />
       <workItem from="1702041469965" duration="25000" />
       <workItem from="1702095043645" duration="5069000" />
-      <workItem from="1702113910694" duration="8672000" />
+      <workItem from="1702113910694" duration="8882000" />
+      <workItem from="1702180214897" duration="602000" />
+      <workItem from="1702786038331" duration="3369000" />
+      <workItem from="1702872636066" duration="3704000" />
+      <workItem from="1703512254725" duration="829000" />
+      <workItem from="1703562331889" duration="613000" />
+      <workItem from="1705293268771" duration="801000" />
+      <workItem from="1705591755022" duration="2381000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -207,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702113963557</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="java array done">
+      <option name="closed" value="true" />
+      <created>1702122617449</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702122617449</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,8 +253,8 @@
     <MESSAGE value="java control statements done" />
     <MESSAGE value="java methods done" />
     <MESSAGE value="java string done" />
-    <MESSAGE value="java array done" />
     <MESSAGE value="java immutable string done" />
-    <option name="LAST_COMMIT_MESSAGE" value="java immutable string done" />
+    <MESSAGE value="java array done" />
+    <option name="LAST_COMMIT_MESSAGE" value="java array done" />
   </component>
 </project>
